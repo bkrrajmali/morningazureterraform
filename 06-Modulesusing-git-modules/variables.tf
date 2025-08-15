@@ -1,0 +1,10 @@
+variable "project_name" {}
+variable "location" {}
+variable "address_space" {}
+variable "subnet_prefix" {}
+variable "admin_username" {}
+variable "admin_password" {}
+variable "vm_size" {}
+variable "create_public_ip" {}
+variable "allow_ssh_cidr" {}
+variable "tags" {}
